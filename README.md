@@ -1,5 +1,5 @@
 # cifar10-cnn-pytorch
-This is a pytorch implementation of classification task on [CIFAR10](https://www.cs.toronto.edu/~kriz/cifar.html) with CNN.
+This is a pytorch implementation of classification task on [CIFAR10](https://www.cs.toronto.edu/~kriz/cifar.html) dataset with CNN.
 
 ## Results
 ### Loss
